@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DM GROUP</title>
+<meta name="description" content="DM GROUP, In world were dream are manifasted">
+<meta name="author" content="Dm Group">
+<meta name="keywords" content="Dm Group"/>
+<link rel="shortcut icon" href="img/dm.png" type="image/x-icon">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.html">
+<link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.html">
+<link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.html">
+<link rel="stylesheet" type="text/css"  href="css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css">
+<link rel="stylesheet" type="text/css"  href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
+<link rel="stylesheet" href="css/font-icon.css">
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="js/modernizr.custom.js"></script>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<nav id="menu" class="navbar navbar-default navbar-fixed-top">
+  <div class="container"> 
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+       		<span class="sr-only">Toggle navigation</span> 
+       		<span class="icon-bar"></span> 
+       		<span class="icon-bar"></span> 
+       		<span class="icon-bar"></span> 
+       	</button>
+        <a class="navbar-brand" href="index.html"><!-- <i class="fa fa-sun-o"></i> -->
+          <div class="row">
+              <div class="col-sm-12"><img src="./img/logo1.png" style="width: 30px;height: 30px">Dm Group<strong></strong></div>
+              <div class="col-sm-0"></div>
+          </div>
+        </a>
+    </div>
+    
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#home" class="page-scroll">Home</a></li>
+        <li><a href="#services-section" class="page-scroll">Services</a></li>
+        <li><a href="#works-section" class="page-scroll">Portfolio</a></li>
+        <li><a href="#about-section" class="page-scroll">About</a></li>
+        <li><a href="#team-section" class="page-scroll">Our Team</a></li>
+        <li><a href="#contact-section" class="page-scroll">Contact</a></li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
+
+<!-- Header -->
+<header class="text-center" name="home">
+  <div class="intro-text">
+    <h1>Welcome to <strong>Dream Manifastation</strong></h1>
+    <p>We have the power to change everything we need as long as we have the courage and passion.</p>
+    <a href="#services-section" class="btn btn-default btn-lg page-scroll">MORE DREAMS </a> </div>
+</header>
+
+<!-- Services Section -->
+<div id="services-section" class="text-center">
+  <div class="container">
+    <div class="section-title center">
+      <h2><strong>Our Services</strong></h2>
+      <hr>
+      <div class="clearfix"></div>
+      <p>We want to create a world in which every child attains the right to survival, protection, development of country and participation in each and every field in the world!</p>
+    </div>
+    <div class="space"></div>
+    <div class="row">
+	      <div class="col-md-4 col-sm-6 service"> <i class="fa fa-child"></i>
+	        <h3>DM CHARITY</h3>
+	        <p>We want to create a world in which every child attains the right to survival, protection, development of country and participation in each and every field in the world.</p>
+	      </div>
+	      <div class="col-md-4 col-sm-6 service"> <!-- <i class="fa fa-road"> --><i class="fa fa-rocket"></i>
+	        <h3>DM AIRWAYS</h3>
+	        <p>Our mission is to generate profits by providing air services. Our priority is to provide our customers with optimum connections between the whole world</p>
+	      </div>
+
+	      <div class="col-md-4 col-sm-6 service"> <i class="fa fa-gears"></i>
+	        <h3>DM ELECTRONICS</h3>
+	        <p>Our goal, in a africa, is to obtain stellar products and services within tight timeframes, at a cost that represents the best possible value to our customers and shareholders.</p>
+	      </div>
+    </div><br><br><br>
+    <div class="row">
+	      <div class="col-md-4 col-sm-6 service"> <i class="fa fa-hospital-o"></i>
+	        <h3>DM HOSPITAL</h3>
+	        <p>We want to provide compassionate, accessible, high quality, cost effective healthcare to the community; to promote health; to educate healthcare professionals; and to participate in appropriate clinical research.</p>
+	      </div>
+	      <div class="col-md-4 col-sm-6 service"> <i class="fa fa-home"></i>
+	        <h3>DM ESTATE</h3>
+	        <p>We want to achieve the highest possible standards of the real estate market while establishing our agency as the premier and preferred real estate company in the St. Louis and surrounding areas.</p>
+	      </div>
+	      <div class="col-md-4 col-sm-6 service"> <i class="fa fa-pencil"></i>
+	        <h3>DM SCHOOLS</h3>
+	        <p>Every person has the opportunity to achieve his/her fullest potential and participate in and contribute to all aspects of life. </p>
+	      </div>
+    </div>
+  </div>
+</div>
+<!-- Portfolio Section -->
+<div id="works-section">
+  <div class="container"> <!-- Container -->
+    <div class="section-title text-center center">
+      <h2>Our Portfolio</h2>
+      <hr>
+      <div class="clearfix"></div>
+      <p><strong>We are born to follow our dreams, once we don't we are not living.</strong></p>
+      <p>We have the power to change everything we need as long as we have the courage and passion</p>
+    </div>
+    <div class="categories">
+      <ul class="cat">
+        <li>
+          <ol class="type">
+            <li><a href="#" data-filter="*" class="active">All</a></li>
+            <li><a href="#" data-filter=".charity">Charity Work</a></li>
+            <li><a href="#" data-filter=".electronics">Electronics Development</a></li>
+            <li><a href="#" data-filter=".schooling">Schooling Work</a></li>
+            <li><a href="#" data-filter=".hospital">Hospital</a></li>
+            <li><a href="#" data-filter=".estate">Estate work</a></li>
+          </ol>
+        </li>
+      </ul>
+      <div class="clearfix"></div>
+    </div>
+    <div class="row">
+      <div class="portfolio-items">
+        <div class="col-sm-6 col-md-3 col-lg-3 charity">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/charity/5.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>CHARITY</h4>
+                <!-- <small>Project</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/charity/5.jpg" class="img-responsive" alt="Charity is power"> </a> </div>
+          </div>
+        </div>
+
+         <div class="col-sm-6 col-md-3 col-lg-3 schooling">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/schools/003.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>SCHOOLING</h4>
+                <!-- <small>Data Science</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/schools/003.jpg" class="img-responsive" alt="There is power in learning"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 hospital">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/hospital/001.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>Hospital</h4>
+                <!-- <small>Project</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/hospital/001.jpg" class="img-responsive" alt="Life.❤"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 electronics">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/electronics/tn-lg2.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>ELECTRONICS</h4>
+                <!-- <small>App Development</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/electronics/tn-lg2.jpg" class="img-responsive" alt="Future of electronics"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 schooling">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/schools/w2.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>SCHOOLING</h4>
+                <!-- <small>Data Science</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/schools/w2.jpg" class="img-responsive" alt="There is power in learning"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 charity">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/charity/S5.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>CHARITY</h4>
+                <!-- <small>Web development</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/charity/S5.jpg" class="img-responsive" alt="Charity is power"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 hospital">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/hospital/003.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>Hospital</h4>
+                <!-- <small>Project</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/hospital/003.jpg" class="img-responsive" alt="Life.❤"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 electronics">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/electronics/003.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>ELECTRONICS</h4>
+                <!-- <small>App Development</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/electronics/003.jpg" class="img-responsive" alt="Future of electronics"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 charity">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/charity/8.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>CHARITY</h4>
+                <!-- <small>WebApp designing</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/charity/8.jpg" class="img-responsive" alt="Charity is power"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 electronics">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/electronics/001.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>ELECTRONICS</h4>
+                <!-- <small>App Development</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/electronics/001.jpg" class="img-responsive" alt="Future of electronics"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 schooling">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/schools/on-sm4.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>SCHOOLING</h4>
+                <!-- <small>Data Science</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/schools/on-sm4.jpg" class="img-responsive" alt="There is power in learning"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 estate">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/estate/005.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>ESTATE</h4>
+                <!-- <small>Website services</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/estate/005.jpg" class="img-responsive" alt="Estate in our vision"> </a> </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 col-lg-3 charity">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/charity/h4.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>CHARITY</h4>
+                <!-- <small>WebApp designing</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/charity/h4.jpg" class="img-responsive" alt="Charity is power"> </a> </div>
+          </div>
+        </div>
+
+
+        <div class="col-sm-6 col-md-3 col-lg-3 electronics">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/electronics/002.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>ELECTRONICS</h4>
+                <!-- <small>App Development</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/electronics/002.jpg" class="img-responsive" alt="Future of electronics"> </a> </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 col-lg-3 schooling">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/schools/S4.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>SCHOOLING</h4>
+                <!-- <small>Organized service</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/schools/S4.jpg" class="img-responsive" alt="There is power in learnings"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 estate">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/estate/004.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>ESTATE</h4>
+                <!-- <small>Website services</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/estate/004.jpg" class="img-responsive" alt="Estate in our vision"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 charity">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/charity/ambassador.png" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>CHARITY</h4>
+                <!-- <small>WebApp designing</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/charity/ambassador.png" class="img-responsive" alt="Charity is power"> </a> </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 col-lg-3 schooling">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/schools/001.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>SCHOOLING</h4>
+                <!-- <small>Data Science</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/schools/001.jpg" class="img-responsive" alt="There is power in learning"> </a> </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 col-lg-3 electronics">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/electronics/004.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>ELECTRONICS</h4>
+                <!-- <small>App Development</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/electronics/004.jpg" class="img-responsive" alt="Future of electronics"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 estate">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/estate/001.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>ESTATE</h4>
+                <!-- <small>Website services</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/estate/001.jpg" class="img-responsive" alt="Estate in our vision"> </a> </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3 col-lg-3 charity">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/charity/featured-img2.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>CHARITY</h4>
+                <!-- <small>WebApp designing</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/charity/featured-img2.jpg" class="img-responsive" alt="Charity is power"> </a> </div>
+          </div>
+        </div>
+
+         <div class="col-sm-6 col-md-3 col-lg-3 schooling">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/schools/002.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>SCHOOLING</h4>
+                <!-- <small>Data Science</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/schools/002.jpg" class="img-responsive" alt="There is power in learning"> </a> </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 col-lg-3 estate">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="img/portfolio/estate/007.jpg" rel="prettyPhoto">
+              <div class="hover-text">
+                <h4>ESTATE</h4>
+                <!-- <small>Website services</small> -->
+                <div class="clearfix"></div>
+              </div>
+              <img src="img/portfolio/estate/007.jpg" class="img-responsive" alt="Estate in our vision"> </a> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- About Section -->
+<div id="about-section">
+  <div class="container">
+    <div class="section-title text-center center">
+      <h2>About Us</h2>
+      <hr>
+      <div class="clearfix"></div>
+      <p><strong>Remember we are born to follow our dreams, once we don't we are not living.</strong></p>
+      <p>We have a choice, whether to be a mad man or a bold genius. What’s the difference? A mad man is somebody who does the same action over and over and over for an unknown destiny. A bold genius is somebody who does the same action over and over and over again for a known destiny.</p>
+    </div>
+    <div class="row">
+      	<div class="col-md-6"> <img draggable="false" src="img/about/airway1.jpg" class="img-responsive"> </div>
+      	<div class="col-md-6">
+        	<div class="about-text" style="padding-top: 20%">
+        		<span >
+          			<h2><strong>Air Way</strong></h2>
+          			<p>Would you like me to give you a formula for success? It's quite simple, really: Double your rate of failure. You are thinking of failure as the enemy of success. But it isn't at all. You can be discouraged by failure or you can learn from it, so go ahead and make mistakes. Make all you can. Because remember that's where you will find success.</p>
+          		</span>
+        	</div>
+      	</div>
+    </div><br><br><br>
+    <div class="row">
+      	<div class="col-md-6">
+        	<div class="about-text" style="padding-top: 20%">
+        		<span >
+          			<h2><strong>Hospital</strong></h2>
+          			<p>People who succeed have momentum. The more they succeed, the more they want to succeed, and the more they find a way to succeed. Similarly, when someone is failing, the tendency is to get on a downward spiral that can even become a self-fulfilling prophecy. </p>
+          		</span>
+        	</div>
+      	</div>
+      	<div class="col-md-6"> <img draggable="false" src="img/about/Hospital.jpg" class="img-responsive"> </div>
+    </div><br><br><br>
+    <div class="row">
+      	<div class="col-md-6"> <img draggable="false" src="img/about/electr.jpg" class="img-responsive"> </div>
+      	<div class="col-md-6">
+        	<div class="about-text" style="padding-top: 20%">
+        		<span >
+          			<h2><strong>Electronics</strong></h2>
+          			<p>I never did anything worth doing by accident, nor did any of my inventions come indirectly through accident, except the phonograph. No, when I have fully decided that a result is worth getting, I go about it, and make trial after trial, until it comes.</p>
+          		</span>
+        	</div>
+      	</div>
+    </div><br><br><br>
+    <div class="row">
+      	<div class="col-md-6">
+        	<div class="about-text" style="padding-top: 20%">
+        		<span >
+          			<h2><strong>Real Estate</strong></h2>
+          			<p>There is a powerful driving force inside every human being that, once unleashed, can make any vision, dream, or desire a reality.Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it. I never heard of anyone ever stumbling on something sitting down.</p>
+          		</span>
+        	</div>
+      	</div>
+      	<div class="col-md-6"> <img draggable="false" src="img/about/estate.jpg" class="img-responsive"> </div>
+    </div><br><br><br>	
+
+    <div class="row">
+        <div class="col-md-6"> <img draggable="false" src="img/about/school.jpg" class="img-responsive"> </div>
+        <div class="col-md-6">
+          <div class="about-text" style="padding-top: 20%">
+            <span >
+                <h2><strong>Schools</strong></h2>
+                <p>If you do things well, do them better. Be daring, be first, be different, be just.” “I want to work for a company that contributes to and is part of the community. I want something not just to invest in.. </p>
+              </span>
+          </div>
+        </div>
+    </div><br><br><br>
+    <div class="row">
+        <div class="col-md-6">
+          <div class="about-text" style="padding-top: 20%">
+            <span >
+                <h2><strong>Charity</strong></h2>
+                <p>If you do things well, do them better. Be daring, be first, be different, be just.” “I want to work for a company that contributes to and is part of the community. I want something not just to invest in.</br>The way you get meaning into your life is to devote yourself to loving others, devote yourself to your community around you, and devote yourself to creating something that gives you purpose and meaning.</p>
+              </span>
+          </div>
+        </div>
+        <div class="col-md-6"> <img draggable="false" src="img/about/charity.jpg" class="img-responsive"> </div>
+    </div><br><br><br>
+
+  </div>
+</div>
+<!-- Achievements Section -->
+<div id="achievements" class="section dark-bg">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-3">
+        <div class="achievement-box"> <span class="count">0</span>
+          <h4>Happy people</h4>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-3">
+        <div class="achievement-box"> <span class="count">100</span>
+          <h4>Working hours</h4>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-3">
+        <div class="achievement-box"> <span class="count">0</span>
+          <h4>Projects completed</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Team Section -->
+<div id="team-section" class="text-center">
+  <div class="container">
+    <div class="section-title center">
+      <h2>Meet the Team</h2>
+      <hr>
+      <p>This is the lead team behind all the Dream Manifaste we make. Only Dream People Can Make Dreams Posible.</p>
+    </div>
+    <div id="row">
+        <div class="col-md-3 col-sm-6 team">
+        <div class="thumbnail"> <img src="img/team/thierry.jpg" alt="..." class="img-circle team-img">
+          <div class="caption">
+            <h3>MBONYI Frank</h3>
+            <p>Chief Executive Officer & CFO</p>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> -->
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 team">
+        <div class="thumbnail"> <img src="img/team/thierry.jpg" alt="..." class="img-circle team-img">
+          <div class="caption">
+            <h3>MFITEYESU MANZI Thierry</h3>
+            <p>CEO</p>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> -->
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 team">
+        <div class="thumbnail"> <img src="img/team/thierry.jpg" alt="..." class="img-circle team-img">
+          <div class="caption">
+            <h3>ISHIMWE Arnold</h3>
+            <p>Digital Marketing Manager</p>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> -->
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 team">
+        <div class="thumbnail"> <img src="img/team/thierry.jpg" alt="..." class="img-circle team-img">
+          <div class="caption">
+            <h3>NTABWOBA Isaac</h3>
+            <p>CTO / Developer</p>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Contact Section -->
+<div id="contact-section" class="text-center">
+  <div class="container">
+    <div class="section-title center">
+      <h2>Contact Us</h2>
+      <hr>
+      <p>Drop us a line, come say hi, or just a quick phone call will do...</p>
+    </div>
+    <div class="col-md-8 col-md-offset-2">
+      <div class="col-md-4"> <i class="fa fa-map-marker"></i>
+        <p>Dream House,<br>
+          KK 4 Ave, 
+           Kigali</p>
+      </div>
+      <div class="col-md-4"> <i class="fa fa-envelope-o"></i>
+        <p>info@dmgroup.rw</p>
+      </div>
+      <div class="col-md-4"> <i class="fa fa-phone"></i>
+        <p> +250 783366893</p>
+      </div>
+      <br>
+      <div class="clearfix"></div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="col-md-8 col-md-offset-2">
+      <h3>Leave us a message</h3>
+      <form name="sentMessage" id="contactForm" novalidate>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="form-group">
+              <input type="text" id="name" class="form-control" placeholder="Name" required="required">
+              <p class="help-block text-danger"></p>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="form-group">
+              <input type="email" id="email" class="form-control" placeholder="Email" required="required">
+              <p class="help-block text-danger"></p>
+            </div>
+          </div>
+        </div>
+        <div class="form-group">
+          <textarea name="message" id="message" class="form-control" rows="4" placeholder="Message" required></textarea>
+          <p class="help-block text-danger"></p>
+        </div>
+        <div id="success"></div>
+        <button type="submit" class="btn btn-default">Send Message</button>
+      </form>
+    </div>
+  </div>
+</div>
+</div>
+<div id="social-section">
+  <div class="container">
+    <div class="social">
+      <ul>
+        <li><a href="https://m.facebook.com/dmgroup"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://twitter.com/dmgroup"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="https://instagram.com/dmgroup"><i class="fa fa-instagram"></i></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="footer">
+  <div class="container">
+    <div class="fnav">
+      <p>Copyright &copy; Dm Group 2019</p>
+    </div>
+  </div>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="../ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+<script type="text/javascript" src="js/jquery.1.11.1.js"></script> 
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script type="text/javascript" src="js/bootstrap.js"></script> 
+<script type="text/javascript" src="js/SmoothScroll.js"></script> 
+<script type="text/javascript" src="js/jquery.counterup.js"></script> 
+<script type="text/javascript" src="js/waypoints.js"></script> 
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script> 
+<script type="text/javascript" src="js/jquery.isotope.js"></script> 
+<script type="text/javascript" src="js/jqBootstrapValidation.js"></script> 
+<script type="text/javascript" src="js/contact_me.js"></script> 
+
+<!-- Javascripts
+    ================================================== --> 
+<script type="text/javascript" src="js/main.js"></script>
+</body>
+
+</html>
