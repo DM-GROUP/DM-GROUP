@@ -133,7 +133,7 @@ hr {
 /* Home Style */
 header {
 	/*background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/desk.jpg) no-repeat bottom right;*/
-	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/start.jpg) no-repeat bottom right;
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://firebasestorage.googleapis.com/v0/b/dm-group-e2557.appspot.com/o/start.jpg?alt=media&token=39117a51-a406-46a4-a335-ead1ba8596b4) no-repeat bottom right;
 	background-size: cover;
 	color: #cfcfcf;
 	position: relative;
